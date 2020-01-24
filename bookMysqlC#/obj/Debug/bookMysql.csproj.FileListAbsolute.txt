@@ -1,0 +1,28 @@
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\bookMysql.exe.config
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\bookMysql.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\bookMysql.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\MySql.Data.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\Google.Protobuf.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\Renci.SshNet.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\bin\Debug\MySql.Data.xml
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.csprojResolveAssemblyReference.cache
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.Form1.resources
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.Properties.Resources.resources
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.csproj.GenerateResource.Cache
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysql\obj\Debug\bookMysql.pdb
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\bookMysql.exe.config
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\bookMysql.exe
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\bookMysql.pdb
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\BookMysql\bookMysql\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.Form1.resources
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.Properties.Resources.resources
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.csproj.CopyComplete
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.exe
+C:\Users\User\Desktop\BookMysql\bookMysql\obj\Debug\bookMysql.pdb

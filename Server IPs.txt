@@ -1,0 +1,16 @@
+Web Server Ubuntu Lightsail (1)
+http://18.213.178.156
+-----------------------------------
+Web Server Ubuntu Lightsail (2)
+http://52.6.112.214/
+-----------------------------------
+EC2 Web Server (1)
+ehab-fadl.de
+54.156.227.216
+http://webserverbooklistloadbalancer-1582775598.us-east-1.elb.amazonaws.com/
+-----------------------------------
+EC2 Web Server(2)
+ehab-fadl.de
+52.44.184.49
+http://webserverbooklistloadbalancer-1582775598.us-east-1.elb.amazonaws.com/
+----------------------------------

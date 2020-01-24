@@ -1,0 +1,15 @@
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\bookMysqlTest.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\bookMysqlTest.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\obj\Debug\bookMysqlTest.csprojResolveAssemblyReference.cache
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\obj\Debug\bookMysqlTest.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\obj\Debug\bookMysqlTest.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\bookMysql.exe
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\MySql.Data.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\Google.Protobuf.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\Renci.SshNet.dll
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\bookMysql.pdb
+D:\Universität-Master\Semester 1\Systemintegration\Project\BookMysql\bookMysqlTest\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\BookMysql\bookMysqlTestC#\obj\Debug\bookMysqlTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BookMysql\bookMysqlTestC#\obj\Debug\bookMysqlTest.dll
+C:\Users\User\Desktop\BookMysql\bookMysqlTestC#\obj\Debug\bookMysqlTest.pdb
